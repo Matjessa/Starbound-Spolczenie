@@ -1,0 +1,187 @@
+[
+  {
+    "value": "Opuszczona asteroida, pospiesznie przerobiona na siedzibę dla Strażników Pokoju.",
+    "path": "/spacestation_peacekeeper1/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Mała, ale przytulna siedziba Strażników Pokoju.",
+    "path": "/spacestation_peacekeeper3/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Duża stacja kosmiczna zapewni wiele placówek, wykorzystywanych jako siedziby dla Strażników Pokoju.",
+    "path": "/spacestation_peacekeeper4/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Zgrabna, neonowa stacja kosmiczna, używana jako siedziba Strażników Pokoju.",
+    "path": "/spacestation_peacekeeper5/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": Nieco zaniedbane biuro, obecnie wykorzystywane jako siedziba Strażników Pokoju.",
+    "path": "/spacestation_peacekeeper2/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Nadziemskie zakłócenia uniemożliwiają szczegółowe skanowanie, ale istnieją tu anomalne odczyty energii, które wymagają zbadania.",
+    "path": "/anomaly/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Kryjówka Przestępców",
+    "path": "/bountyanomaly/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Stacja Elektroniki",
+    "path": "/spacestation_electronics/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Nawet w bezmiarze kosmosu ludzie wciąż muszą jeść. Stacja ta zajmuje się produkcją i dystrybucją żywności odpowiadającej różnym obcym gustom.",
+    "path": "/spacestation_food/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Stacja Dystrybucji Żywności",
+    "path": "/spacestation_food/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Przyjazny Statek",
+    "path": "/merchantastroship/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Przyjazny Statek",
+    "path": "/merchantindustrialship/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Przyjazny Statek",
+    "path": "/penguinship/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Przyjazny Statek",
+    "path": "/researchship/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Od tajnych programów rządowych po szalonych pingwinich naukowców, kosmos jest pełen ludzi tworzących nową, ekscytującą broń.",
+    "path": "/spacestation_weapons/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Wrogi Statek",
+    "path": "/cultistship/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Wrogi Statek",
+    "path": "/pirateship/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Stacja Badań Medycznych",
+    "path": "/spacestation_medical/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Stacja Strażników Pokoju",
+    "path": "/spacestation_peacekeeper1/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Stacja Strażników Pokoju",
+    "path": "/spacestation_peacekeeper2/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Stacja Strażników Pokoju",
+    "path": "/spacestation_peacekeeper3/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Stacja Strażników Pokoju",
+    "path": "/spacestation_peacekeeper4/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Stacja Strażników Pokoju",
+    "path": "/spacestation_peacekeeper5/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Osobista Stacja Kosmiczna",
+    "path": "/playerstation/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Naukowcy na tej stacji badają wpływ mikrograwitacji na fizjologię w celu opracowania nowych leków.",
+    "path": "/spacestation_medical/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Podejrzany Statek",
+    "path": "/bountyship/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "To właśnie tutaj ukrywają się przestępcy.",
+    "path": "/bountyanomaly/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Tę osobistą stację kosmiczną umieścił inny poszukiwacz przygód. Pewnie ma niezły towar do ukradnięcia.",
+    "path": "/playerstation/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ten statek nas zauważa, a jego kapitan serdecznie zaprasza nas do złożenia wizyty.",
+    "path": "/merchantastroship/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ten statek nas zauważa, a jego kapitan serdecznie zaprasza nas do złożenia wizyty.",
+    "path": "/merchantindustrialship/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ten statek nas zauważa, a jego kapitan serdecznie zaprasza nas do złożenia wizyty.",
+    "path": "/penguinship/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ten statek nas zauważa, a jego kapitan serdecznie zaprasza nas do złożenia wizyty.",
+    "path": "/researchship/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Stacja ta wykorzystuje mikrograwitację do produkcji różnorodnych delikatnych elementów elektronicznych.",
+    "path": "/spacestation_electronics/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Stacja Handlu Bronią",
+    "path": "/spacestation_weapons/parameters/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Ktokolwiek pilotuje tym statkiem, nie powinniśmy się do niego zbliżać, nie będąc przygotowani na walkę.",
+    "path": "/bountyship/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ktokolwiek pilotuje tym statkiem, nie powinniśmy się do niego zbliżać, nie będąc przygotowani na walkę.",
+    "path": "/cultistship/parameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ktokolwiek pilotuje tym statkiem, nie powinniśmy się do niego zbliżać, nie będąc przygotowani na walkę.",
+    "path": "/pirateship/parameters/description",
+    "op": "replace"
+  }
+]

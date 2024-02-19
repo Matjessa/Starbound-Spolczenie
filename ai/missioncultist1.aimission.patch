@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Asra Nox została zlokalizowana na jej okręcie wojennym \"Dantalion\".",
+    "path": "/speciesText/default/selectSpeech/text",
+    "op": "replace"
+  },
+  {
+    "value": "Odwiedź ponownie Dantalion",
+    "path": "/speciesText/default/repeatButtonText",
+    "op": "replace"
+  },
+  {
+    "value": "Dantalion",
+    "path": "/speciesText/default/buttonText",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Odwiedź ponownie Wielką Bibliotekę Pagody",
+    "path": "/speciesText/default/repeatButtonText",
+    "op": "replace"
+  },
+  {
+    "value": "Wielka Biblioteka Pagody",
+    "path": "/speciesText/default/buttonText",
+    "op": "replace"
+  },
+  {
+    "value": "Obliczono, że ten starożytny kompleks wysp jest przybliżoną lokalizacją Artefaktu Hylotl.",
+    "path": "/speciesText/default/selectSpeech/text",
+    "op": "replace"
+  }
+]

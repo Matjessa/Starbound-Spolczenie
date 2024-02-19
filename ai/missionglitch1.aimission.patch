@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Wygląda na to, że Glitch Artefakt należy do właściciela małej kamiennej Twierdzy na samotnej planecie.",
+    "path": "/speciesText/default/selectSpeech/text",
+    "op": "replace"
+  },
+  {
+    "value": "Odwiedź ponownie Twierdzę Barona",
+    "path": "/speciesText/default/repeatButtonText",
+    "op": "replace"
+  },
+  {
+    "value": "Twierdza Barona",
+    "path": "/speciesText/default/buttonText",
+    "op": "replace"
+  }
+]

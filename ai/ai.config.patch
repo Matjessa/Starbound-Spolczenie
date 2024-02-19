@@ -1,0 +1,27 @@
+[
+  {
+    "value": "^#6f6f6f;$ załoga\n^cyan;> Jesteś jedynym zarejestrowanym członkiem załogi tego statku.\n> Rekrutacja dodatkowych członków załogi może pozwolić na zwiększeni efektywności operacyjnej.",
+    "path": "/noCrewSpeech/text",
+    "op": "replace"
+  },
+  {
+    "value": "^#6f6f6f;$ misje\n^cyan;> Obecnie brak dostępnych współrzędnych misji.",
+    "path": "/noMissionsSpeech/text",
+    "op": "replace"
+  },
+  {
+    "value": "^#6f6f6f;$ stan\n^cyan;> Silniki sterowe statku są obecnie offline.\n> System teleportacji statku działa prawidłowo.\n> ^green;Obecnie dostępna jest wyłącznie planeta poniżej.",
+    "path": "/shipStatus/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "^#6f6f6f;$ stan\n^cyan;> Silniki sterowe statku są online.\n> System teleportacji statku działa prawidłowo.\n> ^green;Planety w tym systemie gwiezdnym są dostępne.",
+    "path": "/shipStatus/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "^#6f6f6f;$ stan -f\n^cyan;> Silniki sterowe statków są dostępne online.\n> Napęd FTL jest online.\n> System teleportacji statku działa prawidłowo.\n> ^green;Cały wszechświat jest dostępny.",
+    "path": "/shipStatus/3/text",
+    "op": "replace"
+  }
+]

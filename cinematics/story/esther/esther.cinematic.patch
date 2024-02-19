@@ -1,0 +1,97 @@
+[
+  {
+    "value": "Zanim rozproszyły się jego ostatnie siły, Stwórca obdarzył sześć wybranych ras cennymi artefaktami.",
+    "path": "/panels/23/text",
+    "op": "replace"
+  },
+  {
+    "value": "Jednak robiąc to, Stwórca całkowicie wyczerpał swoją moc.",
+    "path": "/panels/21/text",
+    "op": "replace"
+  },
+  {
+    "value": "Jednak ten spokój okazał się skończony. Powstała istota pełna nienawiści i zniszczenia. Był to Niszczyciel.",
+    "path": "/panels/16/text",
+    "op": "replace"
+  },
+  {
+    "value": "Witaj kohany! Czy to co nosisz ze sobą to jest Manipulator Materii? Świetnie, więc jesteś Protektorem.",
+    "path": "/panels/5/text",
+    "op": "replace"
+  },
+  {
+    "value": "Odkryłam dawno zapomniane rzeczy, które obciążają teraźniejszość.",
+    "path": "/panels/10/text",
+    "op": "replace"
+  },
+  {
+    "value": "Odszedłem kilka lat temu, decyzja niedopomyślenia... ale nie można było zaniedbać moich badań.",
+    "path": "/panels/9/text",
+    "op": "replace"
+  },
+  {
+    "value": "Przykro mi to mówić, ale być może ostatnim, po Straszliwym zniszczeniu Ziemi...",
+    "path": "/panels/6/text",
+    "op": "replace"
+  },
+  {
+    "value": "Walczył, by wymazać całe życie i odniósłby sukces, gdyby nie poświęcenie Kultywatora.",
+    "path": "/panels/18/text",
+    "op": "replace"
+  },
+  {
+    "value": "To niestety nieuniknione, że musimy się teraz spotkać...",
+    "path": "/panels/7/text",
+    "op": "replace"
+  },
+  {
+    "value": "Dawno temu istniała siła znana jako Stwórca, utrzymująca równowagę we wszechświecie.",
+    "path": "/panels/13/text",
+    "op": "replace"
+  },
+  {
+    "value": "Nazywam się ^orange;Esther Bright^white; i jestem emerytowaną Wielką Protektorką.",
+    "path": "/panels/8/text",
+    "op": "replace"
+  },
+  {
+    "value": "Stwórca powstał przeciwko NIszczycielowi i udało mu się go zapieczętować.",
+    "path": "/panels/20/text",
+    "op": "replace"
+  },
+  {
+    "value": "Niszczyciel nie mógł znieść życia w żadnej formie i siał zniszczenie we wszechświecie.",
+    "path": "/panels/17/text",
+    "op": "replace"
+  },
+  {
+    "value": "Artefakty są porozrzucane po gwiazdach, nie mogę sama ich znaleźć.",
+    "path": "/panels/30/text",
+    "op": "replace"
+  },
+  {
+    "value": "Obrona się rozpada. Musimy zjednoczyć artefakty, dotrzeć do Niszczyciela i całkowicie go zniszczyć.",
+    "path": "/panels/26/text",
+    "op": "replace"
+  },
+  {
+    "value": "Kidy połączy się te sześć artefaktów tworzą klucz otwierający bramę do Niszczyciela.",
+    "path": "/panels/25/text",
+    "op": "replace"
+  },
+  {
+    "value": "To wiele do ogarnięcia, kochany, i ogromna prośba do ciebie... Ale chciałabym twojej pomocy.",
+    "path": "/panels/29/text",
+    "op": "replace"
+  },
+  {
+    "value": "Pod jego wpływem panowała harmonia. Tak było przez eony.",
+    "path": "/panels/14/text",
+    "op": "replace"
+  },
+  {
+    "value": "Musimy je znaleźć i wykorzenić Niszczyciela, zanim inne planety pójdą drogą Ziemi.",
+    "path": "/panels/31/text",
+    "op": "replace"
+  }
+]

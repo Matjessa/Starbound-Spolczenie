@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Od ponad 500 lat jesteśmy dumni tu na Ziemi, jednocząc wszelkiego rodzaju rasy w imię pokoju.",
+    "path": "/panels/24/text",
+    "op": "replace"
+  },
+  {
+    "value": "Huh? Co to było?",
+    "path": "/panels/28/text",
+    "op": "replace"
+  },
+  {
+    "value": "Moi drodzy Protektorowie... Dziś spotykamy się, aby być świadkami rozwoju Protektoratu.",
+    "path": "/panels/23/text",
+    "op": "replace"
+  },
+  {
+    "value": "Nasze zadanie: chronić naszych bliźnich; wspierać, zapewniać schronienie i kształcić tych, którzy szukają naszej pomocy, oraz wspierać porozumienie między tymi, którzy do niej aspirują.",
+    "path": "/panels/25/text",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Manipulator Materii^white;.",
+    "path": "/panels/27/text",
+    "op": "replace"
+  },
+  {
+    "value": "Dziś w imię pokoju witamy naszych najnowszych rodaków i dajemy każdemu z nich nasze najwspanialsze narzędzie...",
+    "path": "/panels/26/text",
+    "op": "replace"
+  },
+  {
+    "value": "C-Co do...",
+    "path": "/panels/30/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ty, Absolwencie! Weź Manipulator i uciekaj! Udaj się w bezpieczne miejsce!",
+    "path": "/panels/33/text",
+    "op": "replace"
+  }
+]

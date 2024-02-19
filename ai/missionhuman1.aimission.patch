@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Zakład Wydobywczy Erchius",
+    "path": "/speciesText/default/buttonText",
+    "op": "replace"
+  },
+  {
+    "value": "Odwiedź ponownie Zakład Wydobywczy Erchius",
+    "path": "/speciesText/default/repeatButtonText",
+    "op": "replace"
+  },
+  {
+    "value": "Obiekt ten jest głównym źródłem Kryształów Erchiusa, które mogą ulepszyć napęd FTL twojego statku.",
+    "path": "/speciesText/default/selectSpeech/text",
+    "op": "replace"
+  }
+]

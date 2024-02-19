@@ -1,0 +1,331 @@
+[
+  {
+    "value": "Polecenia administratora to: %s",
+    "path": "/adminHelpText",
+    "op": "replace"
+  },
+  {
+    "value": "Polecenia podstawowe to: %s",
+    "path": "/basicHelpText",
+    "op": "replace"
+  },
+  {
+    "value": "Polecenia debugowania to: %s",
+    "path": "/debugHelpText",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /admin. Włącza lub wyłącza tryb administratora, który umożliwia korzystanie ze wszystkich przepisów rzemieślniczych, zapobiega obrażeniom, utracie energii oraz umożliwia dostęp do poleceń przeznaczonych wyłącznie dla administratora.",
+    "path": "/basicCommands/admin",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /ban nick_gracza [powód] [rodzaj] [Czas_w_Sekundach]. Wyrzuca i banuje określonego gracza oraz wysyła mu powód. Jeśli nie zostanie podany żaden powód, jako przyczynę zostanie użyty nic gracza. Rodzaj jest określony jako \"uuid\", \"ip\" lub \"both\", domyślnie jest to \"both\". Czas_w_Sekundach domyślnie ma wartość zawsze. Bany o określonym czasie trwania nie są trwałe. Jeśli zamkniesz serwer lub przeładujesz konfigurację, wszyscy tymczasowo zbanowani użytkownicy zostaną natychmiast odblokowani.",
+    "path": "/adminCommands/ban",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /boxes. Przełącza wyświetlanie wielokątów debugujących kolizje, jeśli tryb debugowania jest włączony.",
+    "path": "/debugCommands/boxes",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /cinema Ścieżka_przerywnika [znacznik czasu]. Odtwarza określny przerywnik filmowy do testów, opcjonalnie zaczynając od określonego znacznika czasu.",
+    "path": "/debugCommands/cinema",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /cleboxes. Włącza lub wyłącza czyszczenie pól wyświetlanych za pomocą polecenia /boxes w każdej klatce. Przydatne do określania tras, którymi podążają wrogowie, chociaż mogą wyglądać na niechlujne.",
+    "path": "/debugCommands/clearboxes",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /clearcinematics. Resetuje całą historię odtwarzanych unikalnych przerywników filmowych, umożliwiając graczowi ponowne obejrzenie tych przerywników filmowych.",
+    "path": "/debugCommands/clearcinematics",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /clearradiomessages. Resetuje całą historię otrzymanych unikalnych wiadomości radiowych, umożliwiając graczowi ponowne zobaczenie tych wiadomości.",
+    "path": "/debugCommands/clearradiomessages",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /clearscannedobjects. Resetuje zapis wcześniej przeskanowanych obiektów. Nie resetuje postępu zadań związanych ze skanowaniem obiektów.",
+    "path": "/debugCommands/clearscannedobjects",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /clearstagehand. Usuwa wszystkie przedmioty znajdujące się blisko aktualnej pozycji kursora.",
+    "path": "/adminCommands/clearstagehand",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /completequest ID_zadania. Wymsza ukończenie aktualnie aktywnego zadania z podanym ID zadania (zazwyczaj ID szablonu zadania).",
+    "path": "/debugCommands/completequest",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /deaths. Wyświetla całkowitą liczbę śmierci aktualnej postaci.",
+    "path": "/basicCommands/deaths",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /debug. Włącza tryb debugowania.",
+    "path": "/debugCommands/debug",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /disablespawning. Wyłącza automatyczne pojawianie się potworów na obecnym świecie.",
+    "path": "/adminCommands/disablespawning",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /enablespawning. Włącza automatyczne pojawianie się potworów na obecnym świecie.",
+    "path": "/adminCommands/enablespawning",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /enabletech nazwa_technologii. Odblokowuje określoną technologię do użycia.",
+    "path": "/debugCommands/enabletech",
+    "op": "replace"
+  },
+  {
+    "value": Komenda /entityeval <lua>. Ocenia podany element lua w kontekście skryptowanego obiektu znajdującego się najbliżej kursora. Można używać tylko lokalnie.",
+    "path": "/debugCommands/entityeval",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /eval <lua>. Ocenia podany lua w kontekście procesora skryptów. Można używać tylko lokalnie.",
+    "path": "/debugCommands/eval",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /failquest IDzadania. Wymusza niepowodzenie aktualnie aktywnego zadania z podanym ID zadania (zazwyczaj ID szablonu zadania).",
+    "path": "/debugCommands/failquest",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /fixedcamera. Przełącz blokowanie pozycji kamery; kamera nie będzie przewijać. Sektory mogą się nie ładować lub nie działać prawidłowo, gdy kamera jest oddalona od pozycji gracza.",
+    "path": "/debugCommands/fixedcamera",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /fullbright. Wyłącza silnik oświetlenia i pokazuje wszystko.",
+    "path": "/debugCommands/fullbright",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /giveessentialitem przedmiot nazwa_slotu. Ustawia określony slot na określony przedmiot, zastępując istniejącą zawartość. Prawidłowe nazwy slotów to: beamaxe, wiretool, painttool, narzędzie kontrolne.",
+    "path": "/debugCommands/giveessentialitem",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda \gravity. Pokazuje poziom grawitacji w pozycji gracza.",
+    "path": "/debugCommands/gravity",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /kick nick_gracza [powód]. Wyrzuca określonego gracza i wysyła mu powód. Jeśli nie zostanie podany żaden powód, jako przyczynę zostanie użyty nic gracza.",
+    "path": "/adminCommands/kick",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /list. Lista wszystkich klientów podłączonych do serwera. Format to $ID_klienta : nazwa_serwera : $$Uuid_gracza. Jeśli nazwa_serwera zawiera znaki niedrukowalne, zamiast tego zostanie wyświetlona sekwencja ucieczki Unicode dla tych znaków.",
+    "path": "/adminCommands/list",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /maketechavailable nazwa_technologii. Sprawia, że określona technologia jest widoczna i dostępna do zakupu.",
+    "path": "/debugCommands/maketechavailable",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /naked. Usuwa całe wyposażenie. Przydatne w makrach, aby dać postaci nowe wyposażenie zastępując istniejące, lub, no wiesz, dla zabawy.",
+    "path": "/basicCommands/naked",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /placedungeon nazwa_lochu [pozycja]. Umieszcza dany loch w świecie zakotwiczonym w określonej pozycji lub pozycji kursora gracza. Pozycje należy określić jako x, y. Ignoruje zasady zakotwiczenia.",
+    "path": "/adminCommands/placedungeon",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /played. Wyświetla całkowity czas gry bieżącej postaci.",
+    "path": "/basicCommands/played",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /previewnewquest IDSablonuMisji pozycja_w_sekwencji questGiverSpecies. Wyświetla interfejs nowej misji dla danej misji bez zmiany stanu misji gracza. Prawidłowe opcje pozycja_w_sekwencji to: first, last, next, solo. Może się zepsuć, jeśli misja nie ma skonfigurowanych przykładowych danych.",
+    "path": "/debugCommands/previewnewquest",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /previewquestcomplete IDSablonuMisji pozycja_w_sekwencji questGiverSpecies. Wyświetla interfejs ukończonjej misji dla danej misji bez zmiany stanu misji gracza. Prawidłowe opcje pozycja_w_sekwencji to: first, last, next, solo. Może się zepsuć, jeśli misja nie ma skonfigurowanych przykładowych danych.",
+    "path": "/debugCommands/previewquestcomplete",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /previewquestfailed IDSablonuMisji pozycja_w_sekwencji questGiverSpecies. Wyświetla interfejs niepowodzenia misji dla danej misji, bez zmiany stanu misji gracza. Prawidłowe opcje positionInSequence to: first, last, next, solo. Może się zepsuć, jeśli misja nie ma skonfigurowanych przykładowych danych.",
+    "path": "/debugCommands/previewquestfailed",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /pvp. Włącza lub wyłącza tryb PvP.",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /radiomessage ID_wiadomości. Powoduje, że gracz otrzyma wiadomość radiową o określonym identyfikatorze.",
+    "path": "/debugCommands/radiomessage",
+    "op": "replace"
+  },
+  {
+    "value": "Użyj /reload. Przeładowuje zasoby lokalne po stronie klienta. Spowoduje opóźnienia podczas ich ponownej analizy.",
+    "path": "/basicCommands/reload",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /resetachievements. Resetuje statystyki wszystkich osiągnięć gracza.",
+    "path": "/debugCommands/resetachievements",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /resetgravity. Cofa /setgravity. Rozpoczuna ponownie korzystanie z grawitacji serwera.",
+    "path": "/debugCommands/resetgravity",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /resetuniverseflags. Usuwa wszystkie flagi wszechświata, ale nie cofa bezpośrednio żadnych efektów wywołanych przez te flagi.",
+    "path": "/adminCommands/resetuniverseflags",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /serverreload. Ponownie ładuje zdalne zasoby po stronie serwera. Spowoduje opóźnienia podczas ich ponownej analizy.",
+    "path": "/adminCommands/serverreload",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /serverwhoami. Wyświetla nazwę użytkownika i status administratora serwera.",
+    "path": "/basicCommands/serverwhoami",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /setgravity poziom. Ustawia lokalną grawitację na określony poziom. Wartości ujemne spowodują upadek. Ta zmiana ma charakter wyłącznie lokalny i wygląda dość okropnie na serwerze, ponieważ bardzo mocno zakłóca przewidywanie delta.",
+    "path": "/debugCommands/setgravity",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /setspawnpoint. Ustawia domyślny punkt odrodzenia w bieżącym świecie na pozycję twojej postaci.",
+    "path": "/adminCommands/setspawnpoint",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /settileprotection dungeonId isProtected. Ustaw ochronę bloków o określonym dungeonId na true (niezniszczalny) lub false (zniszczalny).",
+    "path": "/adminCommands/settileprotection",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /setuniverseflag nazwa_flagi. Ustawia aktualną flagę wszechświata, uruchamiając wszelkie powiązane zmiany w świecie.",
+    "path": "/adminCommands/setuniverseflag",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /spawnitem nazwa_przedmiotu [liczba] [parametry]. Tworzy określony przedmiot przy kursorze. Jeśli przedmiot nie istnieje, pojawi się perfectly generic item. Liczba powinna być liczbą całkowitą i domyślnie wynosi 1. Parametry należy określić jako obiekt JSON ujęty w pojedyncze cudzysłowy.",
+    "path": "/adminCommands/spawnitem",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /spawnliquid NazwaCieczy [ilość]. Przywołuje ilość określonej cieczy przy kursorze myszy. Domyślna ilość to 1.",
+    "path": "/adminCommands/spawnliquid",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /spawnmonster typ [poziom] [parametry]. Tworzy potwora określonego typu przy kursorze myszy. Domyślna wartość poziomu wynosi 1. Parametry należy określić jako obiekt JSON ujęty w pojedyncze cudzysłowy.",
+    "path": "/adminCommands/spawnmonster",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /spawnnpc gatunek [poziom] [nasiono] [zastąpienia]. Tworzy NPC określonego gatunku i typu w miejscu kursora myszy. Domyślna wartość poziomu wynosi 1. Zastąpienie należy określić jako obiekt JSON ujęty w pojedyncze cudzysłowy.",
+    "path": "/adminCommands/spawnnpc",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /spawnstagehand typ [parametry]. Tworzy pomocnika scenicznego określonego typu. Parametry należy określić jako obiekt JSON ujęty w pojedyncze cudzysłowy.",
+    "path": "/adminCommands/spawnstagehand",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /spawntreasure NazwaPuli [poziom]. Tworzy wszystkie przedmioty w jednej losowej generacji określonej puli skarbów przy kursorze myszy. Poziom domyślnie wynosi 1.",
+    "path": "/adminCommands/spawntreasure",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /spawnvehicle typ [parametry]. Tworzy pojazd określonego typu przy kursorze myszy. Parametry należy określić jako obiekt JSON ujęty w pojedyncze cudzysłowy.",
+    "path": "/adminCommands/spawnvehicle",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /startquest questArcDescriptor. Daje graczowi zadanie z określonym deskryptorem zadania, który powinien być ciągiem JSON lub obiektem ujętym w pojedyncze cudzysłowy. Aby rozpocząć zadanie według ID szablonu zadania, należy podać identyfikator szablonu w pojedynczym i podwójnym cudzysłowie, np. /startquest '\"protectorate\"'",
+    "path": "/debugCommands/startquest",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /statistic nazwa_statystyki. Wyświetla wartość określonej statystyki osiągnięcia.",
+    "path": "/debugCommands/statistic",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /suicide. Zabija obecną postać, ponosząc wszystkie normalne kary śmierci (w tym permanentną śmierć!). Można to zastosować w ostateczności, jeśli nieodwracalnie utkniesz.",
+    "path": "/basicCommands/suicide",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /timewarp czas. Przesuwa czas  do przodu o określoną liczbę sekund.",
+    "path": "/adminCommands/timewarp",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /togglelayer. Przełącza widoczność określonej warstwy. Warstwa to liczba od 1 do 21. Są one w kolejności: Sky, Parallax, Background, Platforms, Plant, PlantDrop, Object, CursorHintedObject, ParticlesBottom, Effect, Projectile, NPC, Player, ItemDrop, Water, ParticlesMiddle, Foreground, ParticlesTop, Nametag, InfoBars.",
+    "path": "/debugCommands/togglelayer",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /unbanip adres. Usuwa wpisy o podanym adresie z list tymczasowych i stałych banów.",
+    "path": "/adminCommands/unbanip",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /unbanuuid uuid. Usuwa wpisy o podanym uuid z list tymczasowych i stałych banów.",
+    "path": "/adminCommands/unbanuuiud",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /upgradeship UlepszenieStatku. Stosuje określone ulepszenie statku do statku bieżącego gracza. UlepszenieStatku należy określić jako obiekt JSON ujęty w pojedyncze cudzysłowy, np. '{\"shipLevel\" : 5}'",
+    "path": "/debugCommands/upgradeship",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /warp akcja. Przenosi gracza do świata oraz/lub pozycji. Prawidłowe formaty akcji obejmują: PosiadanyStatek, Planeta, Pozycja_planety:współrzędne, Świat:IDświata:<uuid>:<poziom>, Świat_z_statkiem:uuidGracza, Gracz:uuidGracza, Nigdzie (bieżący świat). Do większości akcji można dodać =pozycja_x.pozycja_y, aby określić pozycję w tym świecie.",
+    "path": "/adminCommands/warp",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /whereami. Wyświetla współrzędne planetarne twojej bieżącej lokalizacji.",
+    "path": "/basicCommands/whereami",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /whereis nick_gracza. Wyświetla współrzędne planetarne bieżącej lokalizacji określonego gracza.",
+    "path": "/adminCommands/whereis",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /whoami. Wyświetla nazwę użytkownika i status administratora.",
+    "path": "/basicCommands/whoami",
+    "op": "replace"
+  },
+  {
+    "value": "Komenda /help nazwa_komendy, aby uzyskać szczegółową dokumentację.",
+    "path": "/basicCommands/help",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Z badań Esther wynika, że jest to prawdopodobna lokalizacja Artefaktu Floran.",
+    "path": "/speciesText/default/selectSpeech/text",
+    "op": "replace"
+  },
+  {
+    "value": "Odwiedź ponownie ceremonialne jaskinie myśliwskie",
+    "path": "/speciesText/default/repeatButtonText",
+    "op": "replace"
+  },
+  {
+    "value": "Ceremonialne Jaskinie Myśliwskie",
+    "path": "/speciesText/default/buttonText",
+    "op": "replace"
+  }
+]

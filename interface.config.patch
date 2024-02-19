@@ -1,0 +1,107 @@
+[
+  {
+    "value": "Wystrzel w dół",
+    "path": "/cursorTooltip/beamDownText",
+    "op": "replace"
+  },
+  {
+    "value": "Rozmieść Mecha",
+    "path": "/cursorTooltip/deployText",
+    "op": "replace"
+  },
+  {
+    "value": "???",
+    "path": "/modeTypeTextAndColor/0/0",
+    "op": "replace"
+  },
+  {
+    "value": "Kodeks",
+    "path": "/cursorTooltip/codexText",
+    "op": "replace"
+  },
+  {
+    "value": "Wystrzel w górę",
+    "path": "/cursorTooltip/beamUpText",
+    "op": "replace"
+  },
+  {
+    "value": "STWÓRZ POSTAĆ",
+    "path": "/largeCharPlate/noPlayerText",
+    "op": "replace"
+  },
+  {
+    "value": "Zwykły",
+    "path": "/modeTypeTextAndColor/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Kolekcje",
+    "path": "/cursorTooltip/collectionsText",
+    "op": "replace"
+  },
+  {
+    "value": "Rzemiosło",
+    "path": "/cursorTooltip/craftingText",
+    "op": "replace"
+  },
+  {
+    "value": "Wyłączone",
+    "path": "/cursorTooltip/disabledText",
+    "op": "replace"
+  },
+  {
+    "value": "Hardcorowy",
+    "path": "/modeTypeTextAndColor/3/0",
+    "op": "replace"
+  },
+  {
+    "value": "Instalowanie i odinstalowywanie modów może spowodować uszkodzenie plików zapisu. Przed kontynuowaniem powinieneś wykonać kopię zapasową katalogu 'storage'.",
+    "path": "/modsWarningMessage",
+    "op": "replace"
+  },
+  {
+    "value": "Ekwipunek",
+    "path": "/cursorTooltip/inventoryText",
+    "op": "replace"
+  },
+  {
+    "value": "Ulepszenie M.M.",
+    "path": "/cursorTooltip/mmUpgradeText",
+    "op": "replace"
+  },
+  {
+    "value": "TRYB: ",
+    "path": "/largeCharPlate/modeText",
+    "op": "replace"
+  },
+  {
+    "value": "Opcje",
+    "path": "/escapeDialog/showOptions/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Misje",
+    "path": "/cursorTooltip/questsText",
+    "op": "replace"
+  },
+  {
+    "value": "Powrót do gry",
+    "path": "/escapeDialog/returnToGame/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Zapisz i wyjdź",
+    "path": "/escapeDialog/saveAndQuit/caption",
+    "op": "replace"
+  },
+  {
+    "value": "Przetrwanie",
+    "path": "/modeTypeTextAndColor/2/0",
+    "op": "replace"
+  },
+  {
+    "value": "^green;+<count> więcej^reset;",
+    "path": "/overflowMessageText",
+    "op": "replace"
+  }
+]

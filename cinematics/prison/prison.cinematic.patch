@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Ale wyraz jej oczu mówił, że ma za co żałować.",
+    "path": "/panels/7/text",
+    "op": "replace"
+  },
+  {
+    "value": "Zamknęliśmy Nox w miejscu, gdzie odtąd nie będzie sprawiała żadnych kłopotów. \nSprawa zamknięta, partnerze.",
+    "path": "/panels/5/text",
+    "op": "replace"
+  },
+  {
+    "value": "Wiesz, nie mówiła zbyt wiele, kiedy ją przyprowadziliśmy...",
+    "path": "/panels/6/text",
+    "op": "replace"
+  }
+]

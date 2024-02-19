@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Obudź się. Zaspałeś.",
+    "path": "/panels/4/text",
+    "op": "replace"
+  },
+  {
+    "value": "Obudź się...",
+    "path": "/panels/3/text",
+    "op": "replace"
+  }
+]

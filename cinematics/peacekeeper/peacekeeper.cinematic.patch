@@ -1,0 +1,57 @@
+[
+  {
+    "value": "Dokonamy razem wielkich rzeczy!", 
+    "path": "/panels/6/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ale teraz Ziemi już nie ma, podobnie jak Strażników Pokoju. Może i jestem jedynym Strażnikiem Pokoju, jaki pozostał, ale nie pozwolę, żeby to mnie powstrzymało!",
+    "path": "/panels/16/text",
+    "op": "replace"
+  },
+  {
+    "value": "Chcę odbudować Strażników Pokoju! Chcę rozbić kilka kręgów przestępczych! I chcę wyglądać niesamowicie elegancko, robiąc to wszystko! Jesteś ze mną, partnerze?!",
+    "path": "/panels/17/text",
+    "op": "replace"
+  },
+  {
+    "value": "To był wspaniały cel, ale to nie znaczy, że nie powinieneś mieć kumpli gotowych zadać pierwszy cios. To właśnie tam my wchodzimy.",
+    "path": "/panels/10/text",
+    "op": "replace"
+  },
+  {
+    "value": "Pozwól, że przedstawię ci fakty. Trzymaj się, partnerze.",
+    "path": "/panels/7/text",
+    "op": "replace"
+  },
+  {
+    "value": "Chroniliśmy Ziemię poza wzrokiem opinii publicznej, aby Protektorat mógł bezpiecznie promować swoje przesłanie o jedności. To był cholernie dobry czas dla nas wszystkich.",
+    "path": "/panels/13/text",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Ziemscy Strażnicy Pokoju^white;, cichy zespół doświadczonych detektywów i łowców nagród, który rozbił organizacje zagrażające pokojowi na Ziemi.",
+    "path": "/panels/12/text",
+    "op": "replace"
+  },
+  {
+    "value": "Nazywam się ^orange;Kapitan Noble^white; i myślę, że ty i ja...",
+    "path": "/panels/5/text",
+    "op": "replace"
+  },
+  {
+    "value": "Cóż, czyż to nie jest mój szczęśliwy dzień? Jednemu z was udało się uciec, co? Wygląda na to, że potrafisz zadbać także o siebie.",
+    "path": "/panels/4/text",
+    "op": "replace"
+  },
+  {
+    "value": "Kiedy powstał Protektorat Ziemi, jego celem było zjednoczenie wszechświata za pomocą dyplomacji – uścisków, całusów i tak dalej.",
+    "path": "/panels/8/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ty tam! Trzymasz Manipulator Materii, prawda?",
+    "path": "/panels/3/text",
+    "op": "replace"
+  }
+]

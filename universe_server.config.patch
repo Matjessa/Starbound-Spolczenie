@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Niezgodność zasobów między klientem i serwerem, a opcja zastąpienia nie jest ustawiona",
+    "path": "/clientAssetsMismatchMessage",
+    "op": "replace"
+  },
+  {
+    "value": "Ten serwer nie zezwala na połączenia klientów z niedopasowanymi zasobami",
+    "path": "/serverAssetsMismatchMessage",
+    "op": "replace"
+  }
+]

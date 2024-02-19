@@ -1,0 +1,92 @@
+[
+  {
+    "value": "Czy to żart??",
+    "path": "/1/up/0",
+    "op": "replace"
+  },
+  {
+    "value": "Troszkę lepiej",
+    "path": "/75/up/0",
+    "op": "replace"
+  },
+  {
+    "value": "Robię się głodny",
+    "path": "/75/down/0",
+    "op": "replace"
+  },
+  {
+    "value": "Robię się dość głodny",
+    "path": "/50/down/0",
+    "op": "replace"
+  },
+  {
+    "value": "Żegnaj okrutny świecie",
+    "path": "/1/down/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ledwo stoję.",
+    "path": "/10/down/0",
+    "op": "replace"
+  },
+  {
+    "value": "Nie mogę już tego dłużej znieść!",
+    "path": "/15/down/0",
+    "op": "replace"
+  },
+  {
+    "value": "Potrzebuję więcej!",
+    "path": "/25/up/0",
+    "op": "replace"
+  },
+  {
+    "value": "Widzę światło...",
+    "path": "/5/down/0",
+    "op": "replace"
+  },
+  {
+    "value": "Umrę, jeśli nie zdobędę więcej",
+    "path": "/5/up/0",
+    "op": "replace"
+  },
+  {
+    "value": "Wciąż jestem głodny",
+    "path": "/50/up/0",
+    "op": "replace"
+  },
+  {
+    "value": "Mmm, jestem pełen!",
+    "path": "/100/down/0",
+    "op": "replace"
+  },
+  {
+    "value": "Mmm, jestem pełen!",
+    "path": "/100/up/0",
+    "op": "replace"
+  },
+  {
+    "value": "Mmm, jestem pełen!",
+    "path": "/99/down/0",
+    "op": "replace"
+  },
+  {
+    "value": "Mmm, jestem pełen!",
+    "path": "/99/up/0",
+    "op": "replace"
+  },
+  {
+    "value": "Więcej więcej! Potrzebuję więcej!",
+    "path": "/10/up/0",
+    "op": "replace"
+  },
+  {
+    "value": "Trzeba znaleźć więcej jedzenia!",
+    "path": "/15/up/0",
+    "op": "replace"
+  },
+  {
+    "value": "Baaaardzo głodny...",
+    "path": "/25/down/0",
+    "op": "replace"
+  }
+]

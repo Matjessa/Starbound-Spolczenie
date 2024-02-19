@@ -1,0 +1,167 @@
+[
+  {
+    "value": "Pole Asteroid",
+    "path": "/planetaryTypes/AsteroidField/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Starożytna Brama",
+    "path": "/planetaryTypes/AncientGateway/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Jałowa Planeta",
+    "path": "/planetaryTypes/Barren/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Bagienny Standardowy Księżyc",
+    "path": "/satelliteTypes/Moon/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Gazowy Olbrzym",
+    "path": "/planetaryTypes/GasGiant/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Duża niebieska gwiazda",
+    "path": "/systemTypes/Blue/variationParameters/2/description",
+    "op": "replace"
+  },
+  {
+    "value": "Duża pomarańczowa gwiazda",
+    "path": "/systemTypes/Orange/variationParameters/2/description",
+    "op": "replace"
+  },
+  {
+    "value": "Duża czerwona gwiazda",
+    "path": "/systemTypes/Red/variationParameters/2/description",
+    "op": "replace"
+  },
+  {
+    "value": "Duża biała gwiazda",
+    "path": "/systemTypes/White/variationParameters/2/description",
+    "op": "replace"
+  },
+  {
+    "value": "Duża żółta gwiazda",
+    "path": "/systemTypes/Yellow/variationParameters/2/description",
+    "op": "replace"
+  },
+  {
+    "value": "Średnia niebieska gwiazda",
+    "path": "/systemTypes/Blue/variationParameters/1/description",
+    "op": "replace"
+  },
+  {
+    "value": "Średnia pomarańczowa gwiazda",
+    "path": "/systemTypes/Orange/variationParameters/1/description",
+    "op": "replace"
+  },
+  {
+    "value": "Średnia czerwona gwiazda",
+    "path": "/systemTypes/Red/variationParameters/1/description",
+    "op": "replace"
+  },
+  {
+    "value": "Średnia biała gwiazda",
+    "path": "/systemTypes/White/variationParameters/1/description",
+    "op": "replace"
+  },
+  {
+    "value": "Średnia żółta gwiazda",
+    "path": "/systemTypes/Yellow/variationParameters/1/description",
+    "op": "replace"
+  },
+  {
+    "value": "Księżyc",
+    "path": "/planetaryTypes/Moon/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Mała niebieska gwiazda",
+    "path": "/systemTypes/Blue/variationParameters/0/description",
+    "op": "replace"
+  },
+  {
+    "value": "Mała pomarańczowa gwiazda",
+    "path": "/systemTypes/Orange/variationParameters/0/description",
+    "op": "replace"
+  },
+  {
+    "value": "Mała czerwona gwiazda",
+    "path": "/systemTypes/Red/variationParameters/0/description",
+    "op": "replace"
+  },
+  {
+    "value": "Mała biała gwiazda",
+    "path": "/systemTypes/White/variationParameters/0/description",
+    "op": "replace"
+  },
+  {
+    "value": "Mała żółta gwiazda",
+    "path": "/systemTypes/Yellow/variationParameters/0/description",
+    "op": "replace"
+  },
+  {
+    "value": "Księżyc poziomu 1.",
+    "path": "/satelliteTypes/Tier1/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Planeta poziomu 1.",
+    "path": "/planetaryTypes/Tier1/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Księżyc poziomu 2.",
+    "path": "/satelliteTypes/Tier2/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Planeta poziomu 2.",
+    "path": "/planetaryTypes/Tier2/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Księżyc poziomu 3.",
+    "path": "/satelliteTypes/Tier3/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Planeta poziomu 3.",
+    "path": "/planetaryTypes/Tier3/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Księżyc poziomu 4.",
+    "path": "/satelliteTypes/Tier4/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Palneta poziomu 4.",
+    "path": "/planetaryTypes/Tier4/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Księżyc poziomu 5.",
+    "path": "/satelliteTypes/Tier5/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Planeta poziomu 5.",
+    "path": "/planetaryTypes/Tier5/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Księżyc poziomu 6.",
+    "path": "/satelliteTypes/Tier6/baseParameters/description",
+    "op": "replace"
+  },
+  {
+    "value": "Planeta poziomu 6.",
+    "path": "/planetaryTypes/Tier6/baseParameters/description",
+    "op": "replace"
+  }
+]

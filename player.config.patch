@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Już wiem, jak stworzyć <ItemName>.",
+    "path": "/blueprintAlreadyKnown",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;> Imię: ^white;<name>\n^cyan;> Praca:^white; <role>\n^cyan;> Ranga:^white; <rank>\n^cyan;> Status:^white; <status>",
+    "path": "/companionsConfig/recruitDescription",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Nauczyłem się wytwarzać: <ItemName>.",
+    "path": "/blueprintUnlock",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Dreadwing",
+    "path": "/speciesText/default/buttonText",
+    "op": "replace"
+  },
+  {
+    "value": "Zmierz się ponownie z Dreadwingiem",
+    "path": "/speciesText/default/repeatButtonText",
+    "op": "replace"
+  },
+  {
+    "value": "Właściciel \"Beak Easy\" potrzebuje pomocy. Pokonaj Dreadwinga.",
+    "path": "/speciesText/default/selectSpeech/text",
+    "op": "replace"
+  }
+]

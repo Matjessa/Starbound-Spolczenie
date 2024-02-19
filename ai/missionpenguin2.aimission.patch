@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Odwiedź ponownie Stanowisko Testowania Broni",
+    "path": "/speciesText/default/repeatButtonText",
+    "op": "replace"
+  },
+  {
+    "value": "Pingwini naukowiec dr Akaggy, potrzebuje Twojej pomocy w testowaniu nowej broni.",
+    "path": "/speciesText/default/selectSpeech/text",
+    "op": "replace"
+  },
+  {
+    "value": "Stanowisko Testowania Broni",
+    "path": "/speciesText/default/buttonText",
+    "op": "replace"
+  }
+]

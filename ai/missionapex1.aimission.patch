@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Esther doszła do wniosku, że w tej rezydencji znajduje się Artefakt Apex.",
+    "path": "/speciesText/default/selectSpeech/text",
+    "op": "replace"
+  },
+  {
+    "value": "Odwiedź ponownie Twierdzę Miniknoga",
+    "path": "/speciesText/default/repeatButtonText",
+    "op": "replace"
+  },
+  {
+    "value": "Twierdza Miniknoga",
+    "path": "/speciesText/default/buttonText",
+    "op": "replace"
+  }
+]

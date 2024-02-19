@@ -1,0 +1,12 @@
+[
+  {
+    "value": "Kodeks dodany do dziennika!",
+    "path": "/messages/learned",
+    "op": "replace"
+  },
+  {
+    "value": "Kodeks już znany.",
+    "path": "/messages/alreadyKnown",
+    "op": "replace"
+  }
+]

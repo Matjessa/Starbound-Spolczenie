@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Mnie nie pytaj, jestem tylko króliczkiem.",
+    "path": "/panels/6/text",
+    "op": "replace"
+  },
+  {
+    "value": "Może pójdziesz na spacer?",
+    "path": "/panels/5/text",
+    "op": "replace"
+  },
+  {
+    "value": "To trochę trwa. Może powinieneś zaparzyć sobie herbaty",
+    "path": "/panels/4/text",
+    "op": "replace"
+  },
+  {
+    "value": "AKTUALIZOWANIE MODÓW",
+    "path": "/panels/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Wow, masz dużo modów do aktualizacji, co?",
+    "path": "/panels/3/text",
+    "op": "replace"
+  }
+]
