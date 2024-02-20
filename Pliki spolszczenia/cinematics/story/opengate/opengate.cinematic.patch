@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Właściwie wygląda na to, że nie mamy żadnych  danych na temat ostatniego artefaktu.",
+    "path": "/panels/38/text",
+    "op": "replace"
+  },
+  {
+    "value": "Prawda. Powodem jest to, że był w naszym posiadaniu przez ten cały czas.",
+    "path": "/panels/39/text",
+    "op": "replace"
+  },
+  {
+    "value": Jest to oryginalny – ^orange;Pierwszy Manipulator^white; – i tak się składa, że jest to artefakt podarowany ludziom.",
+    "path": "/panels/41/text",
+    "op": "replace"
+  },
+  {
+    "value": "Teraz brakuje tylko jednego artefaktu!",
+    "path": "/panels/36/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ten Manipulator Materii, który trzymam, jest jedyny w swoim rodzaju.",
+    "path": "/panels/40/text",
+    "op": "replace"
+  },
+  {
+    "value": "Tak, i według naszych badań...",
+    "path": "/panels/37/text",
+    "op": "replace"
+  }
+]
