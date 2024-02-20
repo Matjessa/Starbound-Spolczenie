@@ -1,0 +1,57 @@
+[
+  {
+    "value": "... To nie może być...",
+    "path": "/panels/44/text",
+    "op": "replace"
+  },
+  {
+    "value": "A teraz tobie daję mój ostatni prezent. Powróć Protektorze. Żyj ponownie.",
+    "path": "/panels/52/text",
+    "op": "replace"
+  },
+  {
+    "value": "SPONSORZY",
+    "path": "/panels/66/text",
+    "op": "replace"
+  },
+  {
+    "value": "Wiele po prostu zostało straconych, choć fragmenty mnie, starożytne i dzikie, oderwały się i stały się czymś nowym... To, co pozostało z mnie, pozostało, by oglądać to, co zostawiłem.",
+    "path": "/panels/48/text",
+    "op": "replace"
+  },
+  {
+    "value": "Protektorze... Nie podążaj za niezliczonymi duszami tych, którzy byli przed tobą.",
+    "path": "/panels/46/text",
+    "op": "replace"
+  },
+  {
+    "value": "SZCZEGÓLNE PODZIĘKOWANIA",
+    "path": "/panels/65/text",
+    "op": "replace"
+  },
+  {
+    "value": "ZESPÓŁ STARBOUND",
+    "path": "/panels/64/text",
+    "op": "replace"
+  },
+  {
+    "value": "Niszczyciel został zniszczony, Wszechświat znów jest bezpieczny, ale przed nami jeszcze dużo pracy.",
+    "path": "/panels/51/text",
+    "op": "replace"
+  },
+  {
+    "value": "Chociaż nawet ja uległem Niszczycielowi... Kiedy walczyliśmy, byłem zdruzgotany; rozpadłem się na niemal nieskończone kawałki...",
+    "path": "/panels/47/text",
+    "op": "replace"
+  },
+  {
+    "value": "Zasiałeś ziarno pokoju, które będzie rosło i rozprzestrzeniało się po całym tym rozległym wszechświecie.",
+    "path": "/panels/50/text",
+    "op": "replace"
+  },
+  {
+    "value": "Zjednoczyłeś moje artefakty, Protektorze. Sześć ras, które obdarowałem, stanowi teraz jedną.",
+    "path": "/panels/49/text",
+    "op": "replace"
+  }
+]
