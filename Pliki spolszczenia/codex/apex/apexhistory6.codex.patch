@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Wewnętrzny raport Miniknogu.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Skutki uboczne VEP",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "^red;WYŁĄCZNIE DO DYSTRYBUCJI WEWNĘTRZNEJ^white;\n\nRaport końcowy procesu Vestigi-Evo przed dystrybucją: Kompromis pomiędzy ewolucją umysłową a decentralizacją fizyczną jest nieunikniony. Zmiany w szkielecie są ekstremalne, wzrost włosów drastycznie wzrasta. Funkcjonowanie umysłowe z 300-procentową wydajnością.\n\nWniosek: zmiany w naszym gatunku będą trwałe. Należy natychmiast rozpocząć badania nad odwróceniem fizycznej decentralizacji.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "'Projekt: De-Ape' Raport",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Fragment tajnego raportu laboratorium Miniknogu.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Próba #5062: Wnioski\n\nPoziomy Proto-Ray są niezgodne z nowymi ciągami sekwencji genów. Radzę zacząć od niższych poziomów Proto-Ray i odnotować jakąkolwiek poprawę.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Próba #5062: Obserwacje\n\nOddział Theta przesłał nową partię ciągów nowej sekwencji genów, więc z zapałem poddaliśmy je testowi na obiekcie #5062.\n\nMieliśmy nadzieję, że nowe korekty poziomu Proto-Ray, które wprowadziliśmy po próbach #5032-5039, mogą dać lepsze wyniki, ale #5062 niestety wygasł 002:000 metakliknięć w procesie, cierpiąc z powodu zaskakującego przemieszczenia czaszki. Fascynujące do obserwacji.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Próba #5063: Wnioski\n\nZ ciekawości zbadałem ciągi genów, które otrzymaliśmy. Czy mogę poprosić oddział Theta o zaprzestanie prób oszczędzania czasu poprzez łączenie próbek genów ich domowych łasic, ponieważ powoduje to ogromną stratę czasu i wysiłku.",
+    "path": "/contentPages/3",
+    "op": "replace"
+  },
+  {
+    "value": Próba #5063: Obserwacje\n\nZgodnie z zaleceniem powtórzyliśmy proces, stosując niższe poziomy Proto-Ray. Obiekt początkowo wydawał się dobrze reagować. Dalsze obserwacje wykazały nagły spadek aktywności umysłowej i zdolności motorycznych, ale z nowo odkrytą koniecznością wydawania głośnych, ćwierkających dźwięków.\n\nObiekt został siłą uśmiercony 055:106 metakliknięć, po tym jak uznano go za zbyt irytującego, by utrzymać się przy życiu.",
+    "path": "/contentPages/2",
+    "op": "replace"
+  }
+]

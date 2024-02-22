@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Raport Ministerstwa Minikong",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Minikong - Zapobieganie Kryzysowi",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "TO JEST OGŁOSZENIE SŁUŻBY PUBLICZNEJ MINIKNOG\n\nOdkryto, że wszystkie źródła wody zawierają śmiertelny patogen //\nCiężko pracujący lekarze z Miniknog odkryli już lekarstwo //\nSzczepienie obejmuje bezpłatne uczestnictwo w Procesie Vestigi-Evo. Nie jest to opcjonalne //\nObywatele muszą natychmiast zgłosić się do lokalnego ratusza w celu wykonania szczepienia //",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "// Do wszystkich zainteresowanych,\n\nW kręgach arystokratycznych Apex krąży plotka, że wasz tak zwany system selekcji \"dawcy\" jest mocno stronniczy w stosunku do najbiedniejszych obywateli Apex. Jako urzędnik samorządowy osobiście badam tę sprawę. Proszę o skierowanie mnie do odpowiedniego kontaktu w Ministerstwie Miniknog, ponieważ udało mi się znaleźć tylko ten ogólny kontakt z często zadawanymi pytaniami.\n\nZ poważaniem, Radna Rozabella Novich.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Kopia zapasowa korespondencji e-mail Miniknogu.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Drogi obywatelu,\n\nDziękujemy za cierpliwość. W tej chwili otrzymujemy wyjątkowo dużą liczbę e-maili. Mogę Cię zapewnić, że nasz system selekcji dawców korzysta z najbardziej niezawodnej technologii Apex, aby losowo wybierać dawców ze wszystkich zakątków naszego ukochanego społeczeństwa. Z dumą mogę ogłosić, że naszym 3215-tym dawcą jesteś Ty! Gratulacje! Wysłano przyjęcie powitalne w celu natychmiastowego rozpoczęcia udziału w programie De-Ape. Big Ape cię obserwuje.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Odnośnie: Błędy selekcji!",
+    "path": "/title",
+    "op": "replace"
+  }
+]

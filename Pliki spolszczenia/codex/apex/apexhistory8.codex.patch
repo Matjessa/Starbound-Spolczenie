@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Książka żywnościowa Apex podlegająca przepisom Miniknog.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Księga racji Apex",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "DZIENNY INWENTARZ ZAOPATRZENIA OBYWATELÓW\n\nCertyfikowana pasta odżywcza x 1\nCertyfikowana woda butelkowana x 1\nKopia The Daily Peel x 1\n\nDodatkowe luksusy można otrzymać w zamian za informacje o działalności rebeliantów\n\nBIG APE OBSERWUJE CIĘ!",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]

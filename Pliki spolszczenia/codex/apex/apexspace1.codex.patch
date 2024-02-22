@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Przestarzały raport Miniknogu na temat zagrożeń związanych z podróżami kosmicznymi.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Raport Wewnętrzny #E86A",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Obecność ^yellow;#01^white;: Dzika przyroda\n\nOrganiczne i sztuczne formy życia w kosmosie wykazują ciekawe zachowania ekologiczne, których nie można zaobserwować w środowiskach lądowych.\n\nJedna schwytana forma życia, którą można opisać jedynie jako latający trójkąt cykloptyczny, wykazała imponującą zdolność do wyparowania całej drużyny naukowców terenowych w czasie krótszym niż 000:400 metakliknięć.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": Obecność ^yellow;#02^white;: Ludzie\n\nPosterunek Epsilon-12 miał kolejne spotkanie z ludzkim statkiem. Nazywając siebie częścią \"Korporacyjnego Wojska\", ci ludzie wydają się nieco bardziej lekkomyślni niż łagodniejsza organizacja \"Ziemskiego Protektoratu\".\n\nWykazują niemal karygodne zapędy kapitalistyczne, natychmiast zobowiązując się do współpracy z Epsilonem-12 w nadziei zdobycia zasobów i funduszy wojskowych.",
+    "path": "/contentPages/2",
+    "op": "replace"
+  },
+  {
+    "value": "W przeciwieństwie do naszych żołnierzy zaobserwowano, że ta grupa ma poważne problemy z posłuszeństwem w swoich szeregach. Wiele z ich frachtowców zginęło w wyniku buntów, a ich załogi zamiast tego zdecydowały się na karierę w kosmicznym bandytyzmie.\n\nDochodząc do wniosku, że powiązanie z tą frakcją może spowodować dla nas komplikacje, oddział Theta zaproponował metodę cichego zdziesiątkowania ich od wewnątrz poprzez wykorzystanie ich zapału do broni biologicznej.",
+    "path": "/contentPages/3",
+    "op": "replace"
+  },
+  {
+    "value": "Chociaż stworzenia te są niezaprzeczalnie groźne, ich ciała są zazwyczaj zbudowane w sposób, który nie pozwala im przetrwać nawet w nieznacznych warunkach grawitacyjnych.\n\nWykazano, że placówki Miniknog z polami grawitacyjnymi są mało interesujące dla różnych kosmicznych drapieżników, a instalacje wieżowe odstraszają bardziej agresywne zagrożenia.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  }
+]

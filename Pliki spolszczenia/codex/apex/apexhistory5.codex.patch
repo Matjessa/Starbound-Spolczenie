@@ -1,0 +1,19 @@
+[
+  {
+    "value": "Ogłoszenie minikongu dla populacji Apex.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Niezgoda wśród nas!",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "^red;POTĘPIAJ KŁAMSTWA REBELI!^white;
+
+Podstępna obecność Rebelii Przeciwko Miniknogowi oznacza ^red;ZNISZCZENIE NASZEGO SPOSOBU ŻYCIA!^white;\n\nJeśli podejrzewasz, że Twój kolega, przyjaciel lub członek rodziny jest buntownikiem, ^red;POINFORMUJ SWOJEGO LOKALNEGO PRZEDSTAWICIELA MINIKNOGU TERAZ!^white;\n\nBunt grozi karą śmierci!\n\nZawsze pamiętaj: ^red;BIG APE CIĘ OBSERWUJE!^white;",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]

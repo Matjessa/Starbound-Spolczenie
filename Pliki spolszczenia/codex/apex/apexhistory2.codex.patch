@@ -1,0 +1,27 @@
+[
+  {
+    "value": "10 lat później",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Artykuł archiwalny z The Daily Peel.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "",
+    "path": "/contentPages/2",
+    "op": "replace"
+  },
+  {
+    "value": "Trudno uwierzyć, że minęło całe dziesięć lat od odkrycia pozornie nieuleczalnego patogenu przenoszonego przez wodę, który zagroził istnieniu naszych niegdyś kruchych ludzi.\n\nKiedy jednak wydawało się, że cała nadzieja została stracona, utworzenie Miniknogu przyniosło coś więcej niż tylko lekarstwo. Ich Proces Vestigi-Evo, pierwotnie rozpowszechniany jako lek na tę chorobę, miał dodatkową zaletę w postaci naszej ewolucji do znanych nam już form.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Miniknog ogłosił dzisiaj, że potwierdzono, iż każdy żyjący Apex przeszedł teraz VEP, co sygnalizuje zdecydowaną zmianę w przyszłości naszego ludu!\n\nPomimo tej hojności ze zdumieniem donoszę, że niektórzy z naszych ludzi są niewdzięczni za dar, jakim jest VEP! Mówi się nawet o buntownikach, tchórzliwych jednostkach, które twierdzą, że choroba została sfabrykowana przez Miniknog, aby zmusić nas do wzięcia udziału w tym procesie.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  }
+]

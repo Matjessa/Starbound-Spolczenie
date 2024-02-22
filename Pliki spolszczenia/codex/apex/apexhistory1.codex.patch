@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Stronniczy podręcznikowy opis powstania Apex.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Przez niezliczoną ilość czasu lud Apex śnił o obiecanym nam przeznaczeniu, szeptem gwiazd, który mówił o wielkości wykraczającej poza ograniczenia naszej naturalnej formy. Związani naszym DNA z przeciętnym życiem, bezsensownie wytrwaliśmy w naszym cichym zakątku wszechświata.\n\nPotem nadszedł dzień, w którym powstał Miniknog – największe umysły naszego ludu zjednoczyły się, aby wspierać najważniejsze badania w historii nauki.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gatunek Nadrzędny",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Pod przewodnictwem Miniknogu zebrano wystarczające zasoby, aby zapewnić mieszkania całej naszej populacji, bogatej jak i biednej.\n\nDo dziś Minikong jest zaangażowany w swoje odważne badania. Być może pewnego dnia przywrócą utraconą fizyczną tożsamość dawnych Apex.",
+    "path": "/contentPages/2",
+    "op": "replace"
+  },
+  {
+    "value": "Kiedy uderzyła niszczycielska zaraza, odkrycie leku spowodowało nieoczekiwany efekt uboczny. Wynaleziono proces Vestigi-Evo, w skrócie VEP – zamianę fizycznej decentralizacji na rzecz ewolucji intelektualnej.\n\nVEP pozwolił nam stać się rasą, do której byliśmy przeznaczeni. Dzięki naszemu zaawansowanemu intelektowi Apex skutecznie rozprzestrzenił się po całym wszechświecie, stając się aktywną obecnością w społeczności galaktycznej.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  }
+]

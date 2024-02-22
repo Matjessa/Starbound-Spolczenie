@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Wiadomość między bazami rebeliantów Apex.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "SPRAWOZDANIE REBELII\nBaza 8 do Bazy 12, 11, 4\n\nTEMAT: Przerywanie rozpowszechniania propagandy Miniknogu\nZwane dalej: Operacją – PROKLAMACJA\n\nWarunek: Udział wszystkich baz. Potrzebni ochotnicy do szturmu. Docelowe prasy fabryczne (rejon 10). Żołnierze mają zniszczyć prasy i składy druków.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Sprawozdanie Rebelii",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Zapytanie o zaopatrzenie: Baza 4. Ładunki, materiały wybuchowe. Klasa C.\n\nInformacje dodatkowe: Operacja – PROKLAMACJA zostanie uchwalona w połączeniu z Operacją – NARUSZENIE.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  }
+]

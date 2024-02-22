@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Apex: Utracona tożsamość",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Jako buntownik w społeczeństwie Apex prawdę o naszej historii można zdobyć, odrzucając fałszywą narrację, którą karmiono nas przez całe życie.\n\nProces Vestigi-Evo był odpowiedzialny za nieodwracalną zmianę biologii całej naszej rasy, ale ponieważ dokumenty są w większości zniszczone, nie możemy być pewni, jak dawno temu to się stało. Jak długo Miniknog sprawuje władzę? Może czterysta lat? Pięćset? Niewiele pozostało informacji o tym, jak wyglądało nasze społeczeństwo.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Dokument teoretyczny naukowca rebeliantów.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Czy nie byliśmy zbyt bierni jako społeczeństwo? To mogłoby wyjaśniać, jak dyktatura tak łatwo przejęła władzę bez oporu. Być może straciliśmy naszą przeszłość na rzecz Miniknogu, ale nie stracimy także przyszłości.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  }
+]
