@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Dziś przeszedł do mnie Obserwator Zolin i przekazał mi niesamowitą wiadomość. Mam zostać Ascendentem w następnym cyklu! Nie mogłem w to uwierzyć! Kilka razy musiał mnie zapewniać, że się nie pomylił. Byłem w szoku, że uznano mnie za godnego! Zolin powiedział: \"Na słowo Kluexa jesteś godny\". Powiedział mi, że Kluex przyszedł do niego w Gwiezdnym Śnie, tak jak to robi w każdym cyklu, i tym razem poprosił o mnie! To było niemal za wiele. Wybrał mnie sam Kluex! Poczułem zawroty głowy – prawie tak, jakbym miał zaraz wznieść się spiralą w niebo.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "1. Wpis Pamiętnika Yolotli",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Osobisty pamiętnik Ascendenta Avian.",
+    "path": "/description",
+    "op": "replace"
+  }
+]

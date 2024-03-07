@@ -1,0 +1,22 @@
+[
+  {
+    "value": "„Spędzam teraz wiele czasu w świątyni, nigdy nie czułem się tak blisko Kluexa jak teraz. Każdego dnia modlimy się i śpiewamy, a ja jestem namaszczony.\n\nZnalazłem się dziś przy ołtarzu i przesunąłem dłonią po plamach krwi na jego powierzchni, plamy były świeże po ofiarach z niedawnej bitwy. To było cudowne wrażenie niemal elektryzujące! Krew odważnych wojowników, naszych szlachetnych wrogów, wypływa, aby zadowolić naszego potężnego i cudownego boga. "",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Już wkrótce moja esencja dołączy do Kluexa, tak jak innych. Ale moja, moja idzie chętnie - serce mi się rozjaśnia, gdy pomyślę, że mogę pomóc w zapewnieniu Kluexowi wiecznego szczęścia.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "2. Wpis Pamiętnika Yolotli",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Osobisty pamiętnik Ascendenta Avian.",
+    "path": "/description",
+    "op": "replace"
+  }
+]

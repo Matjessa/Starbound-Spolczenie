@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Osobisty pamiętnik Ascendenta Avian.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Po upływie dziewięciu dni ucztujemy. Zawsze co dziewięć dni! Nigdy w życiu tak dobrze nie jadłem.\n\nPrzygotowanie daje jeszcze większą satysfakcję niż jedzenie: służący przychodzą i pomagają mi się wykąpać, a gdy już wyschnę, pióra mojego grzebienia są pokrywane złotem.\n\nMój dziób jest również wypolerowany, dzięki czemu jasno świeci w świetle ognia.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Kiedy to wszystko się dzieje, na moje pióra nakładają olej sosnowy tak gęsty, że na końcu wydają się być jak lakierowane. Olejek sosnowy ma taki odurzający zapach! Sprawia, że pachnę jak najczystsze powietrze wysoko nad górami.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "3. Wpis Pamiętnika Yolotli",
+    "path": "/title",
+    "op": "replace"
+  }
+]

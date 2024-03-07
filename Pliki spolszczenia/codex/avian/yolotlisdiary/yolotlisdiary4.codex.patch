@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Nie mogę się doczekać, aż rozwinę skrzydła i powitam powietrze! Moje ciało opada pode mną... Oddaję to z radością! Gdy wyląduje, zostanie zabrany, przetworzony i umieszczony w stosach grobowców, wśród naczyń moich współtowarzyszy Wzniesienia.\n\nLedwo trzeźwo myślę. Moja dusza, moja esencja, moje ja zostaną uwolnione! Swobodnie szybować; aby dołączyć do Kluexa \"jako część i całość\"! Słyszę wołanie wiatru, to głos Kluexa.",
+    "path": "/contentPages/2",
+    "op": "replace"
+  },
+  {
+    "value": "Denerwuje mnie, że na ulicach będzie tak duży tłum (tyle uwagi), ale też jestem dumny.\n\nObserwator Zolin i pomniejsi kapłani będą mnie eskortować w Procesji do podstawy Niebiańskiej Wieży, a potem pozostali odpadną, a Obserwator Zolin i ja pójdziemy sami na wieżę (za mną podążą słudzy).\n\nKiedy dotrzemy na szczyt wieży, Stargazer wypowie słowa Kluexa, a gdy wzejdzie słońce, skoczę.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Jutro jest Festiwal i moje Wniebowstąpienie! Nie mogę przestać o tym myśleć: wstanę przed świtem, obudzony przez samego Stargazera Zolina, a potem on i ja będziemy się wspólnie modlić.\n\nNastępnie dołączą do nas służący i ponownie zostanę namaszczony olejkami. Po nałożeniu olejku, moje pióra przeczesuje się złotym pyłem. To złoty pył, który sprawi, że będę błyszczeć jak niebo, gdy wyjdę na zewnątrz wśród latarni.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "4. Wpis Pamiętnika Yolotli",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Osobisty pamiętnik Ascendenta Avian.",
+    "path": "/description",
+    "op": "replace"
+  }
+]
