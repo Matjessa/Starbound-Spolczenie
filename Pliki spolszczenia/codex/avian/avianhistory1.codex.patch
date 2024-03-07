@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Avos był kiedyś uwięziony poza gwiazdami – tyle wiadomo.\n\nNie było żadnego początku, gdyż gatunek Avian żył wiecznie poza królestwem śmiertelników.\n\nW Eterze mieszkali w objęciach Kluexa, skrzydlatego ponad wszystkimi.\n\nKluex obdarzył ich prawdziwymi skrzydłami, a oni oddawali cześć w naturze.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Księga Avian: Wers 1:1:1",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Fragment świętej księgi Avian.",
+    "path": "/description",
+    "op": "replace"
+  }
+]

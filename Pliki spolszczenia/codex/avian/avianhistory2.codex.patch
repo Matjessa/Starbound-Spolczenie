@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Księga Avian: Wers  23:4:27",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "W głębi serca Avian zapłonęła iskra zazdrości. Płomień rósł, aż zapłonął szalejący ogień chciwości i tak się stało, że Avianie przeszli do królestwa śmiertelników, aby mogli chodzić wśród istot z krwi i kości.\n\nAle po odwróceniu się plecami do niebios, wszyscy Avianie zostali na zawsze pozbawieni swoich eterycznych skrzydeł i muszą chodzić w ciemności, dopóki nie osiągną prawdziwego rozgrzeszenia w świetle Kluexa.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Fragment świętej księgi Avian.",
+    "path": "/description",
+    "op": "replace"
+  }
+]

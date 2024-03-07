@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Pisma uczonego Avian na temat technologii.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Oczy Kluexa",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Zrozumienie maszyn nie było łatwe dla Avian. Nie urodziliśmy się jako rasa inżynierów, raczej jako rasa wojowników i kapłanów. Jest to naturalny sposób rzeczy, ale zmieniło się to na zawsze, gdy zostały nam podarowane kryształy Avolite.\n\nWypełniając lukę pomiędzy spirytyzmem a nauką, kryształy umożliwiły naszej cywilizacji rozkwit w dzisiejszych czasach.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]
