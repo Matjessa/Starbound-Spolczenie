@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Podręcznik Avian o ich tradycjach i kulturze.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Społeczeństwo Avian skupia się wokół naszego niezachwianego oddania jedynemu prawdziwemu Bogu, Kluexowi, dlatego też nasi arcykapłani, Obserwatorzy, stanowią najwyższy szczebel naszej struktury rządzącej. Przez eony nasi przodkowie walczyli między sobą w podzielonych frakcjach, aż Obserwatorzy zjednoczyli nas wszystkich, kończąc konflikt. Pod ich rządami znaleźliśmy siłę pod skrzydłami Kluexa.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Historia Obserwatorów",
+    "path": "/title",
+    "op": "replace"
+  }
+]

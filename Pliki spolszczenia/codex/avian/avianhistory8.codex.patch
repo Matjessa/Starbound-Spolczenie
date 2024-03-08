@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Dokument informacyjny na temat kryształów Avolite i technologii Avian.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Skarby Obserwatora",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Kryształy Avolite, uważane za boski dar od Kluexa w społeczeństwie Avian, występują naturalnie wyłącznie na ojczystej planecie Avos. Tych świętych kamieni szlachetnych nie da się przeciąć i dlatego istnieją tylko w ich naturalnej, fasetowanej formie. Aviańscy arcykapłani, znani jako Obserwatorzy, mają wyłączne prawo do wydobywania ich, a wtargnięcie do ich kopalń jest przestępstwem karanym śmiercią.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]

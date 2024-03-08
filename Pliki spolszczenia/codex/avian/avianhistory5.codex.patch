@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Dokument napisany przez Awian, którzy odrzucili swoją kulturę.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Manifest Uziemionych",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "My, Uziemieni,\n\nPrzejrzeliśmy wielkie kłamstwo, które nazywają „Kluex”. Fałszywy sen o rozgrzeszeniu jest klatką, w której nie chcemy dłużej pozostać. Nasz lud nazwie nas bluźniercami, ale jesteśmy wolni. Będziemy żeglować po niebie na statkach, które sami zbudowaliśmy, a nie na marzeniach o skrzydłach. Być może jesteśmy teraz wyrzutkami, ale wśród gwiazd znajdziemy społeczności oparte na fundamencie prawdy, a nie kłamstwa.\n\nNiech Prawda Będzie Znana",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]

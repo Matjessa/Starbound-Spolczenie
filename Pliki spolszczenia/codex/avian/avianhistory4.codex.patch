@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Techniki walki Avian",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Jak przewdzić 30 000 wojskiem\n\nPole bitwy należy wybierać ostrożnie – szukaj szerokich równin, na których najlepiej będzie widać wagę i zasięg naszych sił.\n\nNasi wojownicy powinni gromadzić się metodycznie i w ciszy. Kiedy już się zjednoczą w ich ogromie, niech każdy z osobna wykrzyczy swój okrzyk bojowy i wywrzeszczy pieśni wojenne. Ustaw bębny bojowe, aby zagrzmiały.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Notatki na temat starożytnych strategii bojowych Avian.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Jeśli atak okaże się konieczny, przełam szeregi wroga bronią dystansową.\n\nNastępnie: Szturmuj i nękaj ich za pomocą 10 000 wojowników.\n\nAby zająć flanki, poprowadź 10 000 Avian w dywizjach. Zaatakuj i zmiażdż flanki. Poprzedź swoje najbardziej zaciekłe ataki fałszywym wycofaniem się, aby wprawić linię wroga w chaos.\n\nTrzymaj 10 000 wojowników w rezerwie.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Weź swoich wrogów żywcem, gdzie to możliwe. Nie ma lepszej ofiary dla Kluexa niż splamienie jego ołtarza krwią godnego wroga.",
+    "path": "/contentPages/2",
+    "op": "replace"
+  }
+]
