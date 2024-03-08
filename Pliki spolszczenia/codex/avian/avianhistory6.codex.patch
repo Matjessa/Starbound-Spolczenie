@@ -1,16 +1,16 @@
 [
   {
-    "value": "Размышления из газеты приземленных авиан Утренний Хор",
+    "value": "Artykuł z uziemionej gazety Avian \"Poranny Chór\".",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Религия Авиан Клюэкса сосредоточена на вере в то, что когда-то, наш вид имел крылья для полётов, прямо как неразумные птицы. Это довольно занимательная мысль, рождена скорее из идеализма, чем из исторического факта. С биологической точки зрения, это немыслимо что наши руки эволюционировали из крыльев предков, без прохождения миллионов, а то и больше, лет. Действительно интересная мысль.",
+    "value": "Avianie wyznanający Kluexa wyznają osobliwą wiarę religijną, że nasz gatunek miał kiedyś skrzydła zdolne do lotu, podobnie jak nieświadome ptaki. To ciekawa myśl, prawdopodobnie zrodzona raczej z idealizmu niż z faktów historycznych. Z biologicznego punktu widzenia nie jest nie do pomyślenia, że nasze ramiona mogły wyewoluować ze skrzydeł naszych przodków, ale nie musiało minąć miliona lub więcej lat. Lecz to naprawdę ciekawa myśl.",
     "path": "/contentPages/0",
     "op": "replace"
   },
   {
-    "value": "Наши потерянные крылья",
+    "value": "Nasze utracone skrzydła",
     "path": "/title",
     "op": "replace"
   }

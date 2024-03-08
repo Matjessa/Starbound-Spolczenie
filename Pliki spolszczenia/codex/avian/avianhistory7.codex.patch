@@ -1,16 +1,16 @@
 [
   {
-    "value": "Паломничество в Авос",
+    "value": "Pielgrzymka do Avos",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Страница из дневника набожного Авианца.",
+    "value": "Strona z pamiętnika pobożnego Aviana.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Как и большинство Авиан, я не был рождён на Авосе, но зато вырос окруженный историями о нашем родном мире. Насколько я себя помню, я всегда мечтал однажды туда отправиться. Это заняло много лет тяжелой работы и подготовки, чтобы позволить поездку, важнейшую часть Авианского паломничества.\n\nЯ наконец-то закончил это долгое путешествие, и был по настоящему вознагражден за это. Красота Авоса ни с чем несравнима в этом мире, так как Авос раньше находился в Эфире, под крыльями Клюэкса.",
+    "value": "Jak większość Avian, nie urodziłem się na Avos, ale dorastałem otoczony opowieściami o naszej ojczyźnie. Odkąd pamiętam marzyłam, że pewnego dnia tam wyruszę. Kosztowało to wiele lat ciężkiej pracy i dyscypliny, aby pozwolić sobie na tę podróż, kluczową część pielgrzymki dla Avian.\n\nW końcu odbyłem długą podróż i zostałem naprawdę nagrodzony. Piękno Avosa nie ma sobie równych w tym wszechświecie, ponieważ Avos mieszkał kiedyś w Eterze pod skrzydłami Kluexa.",
     "path": "/contentPages/0",
     "op": "replace"
   }
