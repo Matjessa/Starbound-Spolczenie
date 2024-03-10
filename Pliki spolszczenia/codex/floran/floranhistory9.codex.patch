@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Dziennik Ogrodnika",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Tak czy inaczej, przynajmniej prace nad teleportem idą dobrze.\n\nWszędzie są już korzenie nitkowate i otrzymuję wiele informacji zwrotnych od włośników.\n\nWczoraj wysłałem też kilka wąsów łodyg do poszycia dachu i teraz mam już pomysł na ten element.\n\nJak zwykle jest to skomplikowane, ale jasne.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Dzisiaj kontynuacja prac nad nowym teleporterem. Mam nadzieję, że skończę przed zachodem słońca, jeśli uda mi się uniknąć przerw.\n\nStary Bell nadal nie może się zgodzić z najnowszym szaleństwem malarstwa ściennego Aurady, ale trudno mi upominać Auradę za zasadniczo radosny entuzjazm.\n\nNikomu innemu obrazy nie przeszkadzają... Czasami trzeba po prostu zaakceptować fakt, że nie da się zadowolić wszystkich.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "To takie satysfakcjonujące uczucie – ta droga od wstępnego badania do pełnego zrozumienia; kierowanie rośliną w celu sprawdzenia tych pozornie wrogich mechanizmów; znajdowanie wspólnej płaszczyzny porozumienia, kultywowanie zrozumienia...\n\nLubię pomagać innym Floranom i oferować im wskazówki. Jestem dumny, że taki jest mój cel, ale to właśnie ta praca, ten dar sprawia, że czuję się całością.",
+    "path": "/contentPages/2",
+    "op": "replace"
+  },
+  {
+    "value": "Dziennik Ogrodnika przedstawiający codzienne życie plemienia Floran.",
+    "path": "/description",
+    "op": "replace"
+  }
+]

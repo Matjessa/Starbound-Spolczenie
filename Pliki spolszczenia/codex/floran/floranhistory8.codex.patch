@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Piśmienny Floran opisuje spotkanie z Avianem w swoim osobistym dzienniku.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Floran znalazł dzisiaj człowieka-ptaka.\n\nChociaż Floran najbardziej lubi mięso, Floran również nie przepada za jajkami, więc sprowadził do domu człowieka-ptaka.\n\nŻałująca decyzja.\n\nCzłowiek-ptaszek skrzeczy i skrzeczy, a Floran nigdy nie zazna spokoju.\n\nJutro zabiję człowieka-ptaka.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Floran próbuje zrobić zdjęcie człowiekowi-ptakowi, a człowiek-ptaszek wrzeszczy jak zakleszczony snaunt! Kiedy człowiek-ptaszek się uspokoi (dla przyspieszenia postępowania lekko dźgnął go w stopę), człowiek-ptaszek zaczyna rozmawiać o dziewczynie-ptaku. Co dziwne, człowiek-ptaszek mówi o \"Yani\" w ten sam sposób, w jaki Floran mówił o Afie i Razim – jakby troszczył się o Yani, a Yani jest ważna…\n\nCzłowiek-ptaszek ma uczucia! Prawdopodobnie nie są to właściwe uczucia jak Floran, ale ptasi człowiek ma uczucia i myśli w swoim ptasim mózgu!",
+    "path": "/contentPages/2",
+    "op": "replace"
+  },
+  {
+    "value": "Dziennik Maku",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Dzisiaj wydarzyła się dziwna rzecz - Floran zmienił zdanie w sprawie zabicia człowieka-ptaka.\n\nFloran wychodzi rano na zewnątrz, żeby dźgnąć człowieka-ptaka (ugotować ptasią zupę), ale człowiek-ptaszek nagle krzyczy: \"Nie, nie, proszę nie. A co z Yani!?\", a Floran pauzuje (ponieważ nie wie, co to jest \"Yani\") i Floran widzą człowieka-ptaka trzymającego zdjęcie dziewczynki-ptaka...\n\nBardzo ładne zdjęcie - szczegółowe, jak na prawdziwym życiu.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Dzisiaj człowiek-ptaszek mówi, że ma na imię Chicahua.\n\nChicahua wścieka się, gdy zwracam uwagę, jak głupie jest to imię.\n\nChicahua zabawny. Floran tak naprawdę nie chce już go zabijać...\n\nFloran zastanawia się, czy inne mięsa są kiedykolwiek podobne do Chicahua.",
+    "path": "/contentPages/3",
+    "op": "replace"
+  }
+]

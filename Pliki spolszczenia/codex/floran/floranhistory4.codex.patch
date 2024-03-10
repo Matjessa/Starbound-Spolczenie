@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Książka dla Ogrodników o zachęcaniu do dobrego zachowania w plemionach Florana.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Dobre zachowanie Floran",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Będąc Ogrodnikiem przez wiele lat, mogę zaświadczyć, że dobre zachowanie jest kluczem do przetrwania plemienia Floran. Radziłabym przede wszystkim wyzbyć się wszelkich tendencji kanibalistycznych, które najczęściej powstają podczas rytuałów pogrzebowych.\n\nTa tradycja przynosi złą sławę wśród innych plemion wszechświata.\n\nStaraj się także nie walczyć z innymi plemionami.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Jestem pewien, że może to wydawać się dobrym pomysłem, ale naszą największą szansą jest zjednoczenie się Floran przeciwko siłom zewnętrznym, które zagrażają nam spoza gwiazd.\n\nZachęć swoich krewnych Floran, aby skupili swoją energię na zwiększaniu liczebności plemienia, gdyż w liczebności jest bezpieczeństwo!",
+    "path": "/contentPages/1",
+    "op": "replace"
+  }
+]

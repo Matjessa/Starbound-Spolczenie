@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Coś w rodzaju książki kucharskiej Floran.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "KSIĘGA MIĘSA FLORAN\n\nPotrzeby:\n1 Ogień do gotowania\n1 Mięso\n\nKrok 1: Podpal mięso\nKrok drugi – zdejmij mięso z ognia (nie rękami)\n3: Jedz mięso\n\nWskazówki: Nie jedz innych Floranów, jeśli jeszcze żyją.\nGotowanie mięsa jest łatwiejsze, jeśli wciąż nie krzyczy”",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Księga Mięsna Floran",
+    "path": "/title",
+    "op": "replace"
+  }
+]

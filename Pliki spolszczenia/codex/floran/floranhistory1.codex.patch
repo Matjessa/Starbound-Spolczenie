@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Stara książka Floran o technikach łowieckich. Okładka wykonana jest z pękniętej kości.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "FLORAN POLOWANIE PISZE KSIĄŻKĘ \n \n Ciała myślą, że rośliny nie lubią polowań, wszystkie rośliny lubią drzewa\n \n Ciała są głupie, Florani polują na nich i dobrze się przy tym bawi\n \n Krok pierwszy - Biegnij szybciej niż ofiary, aby je złapać\n \n Wskazówka 2 – Dźgnij ich szybciej niż oni dźgną ciebie \n \n CIESZ SIĘ POLOWANIEM",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Jak zdobyć mięso",
+    "path": "/title",
+    "op": "replace"
+  }
+]

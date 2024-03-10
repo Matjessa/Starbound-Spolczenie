@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Książka z radami dla początkujących Ogroników, napisana przez starszego Ogrodnika.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Drzewa genealogiczne Floran",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Na przykład nawet bardzo młody Floran ze świetnymi umiejętnościami łowieckimi będzie wysoko ceniony przez swoich rówieśników.\n\nWielu Ogronikom brakuje siły i dlatego wykorzystują swoją przebiegłość, aby sprawiać wrażenie silnego. Przechytrzanie innych i zwracanie szczególnej uwagi na zmieniającą się hierarchię w swoim plemieniu pozwoli ci wyprzedzić tych, którzy mają wpływ na twój lud.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Aby odnieść sukces jako Ogrodnik, musisz najpierw zrozumieć zawiłości struktury rodzinnej naszej rasy. Jak już wiesz, w kulturze Floran nie ma postaci \"rodziców\" i jako taki Ogrodnik musisz pełnić rolę autorytetu plemienia.\n\nFloran zawsze będzie szanował Ogrodnika, który chroni ich plemię, niezależnie od jego wieku i doświadczenia, gdyż wśród naszego rodzaju szacunek przyznawany jest tym, którzy wykazują siłę.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]

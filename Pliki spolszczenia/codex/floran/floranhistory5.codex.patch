@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Fragment dziennika ludzkiego naukowca obserwującego plemię Floran.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Florani we mgle",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Dla naukowca takiego jak ja, każdy dzień wśród Floran jest fascynującym doświadczeniem.\n\nSpędziłem kilka miesięcy obserwując typową kolonię rasy roślinopodobnej i dokonałem niezliczonych przełomowych obserwacji.\n\nPowszechna opinia jest taka, że Floranie są z natury dzicy lub źli, ale z mojego doświadczenia mogę przyznać, że po prostu brakuje im zrozumienia.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Uważam, że ich edukowanie nie jest całkowicie daremne – niektórym udało mi się nawet wyjaśnić, w jaki sposób jestem świadomy, tak samo jak oni.\n\nMałymi kroczkami, ale jest dla nich jeszcze nadzieja! Zastanawiam się tylko, dlaczego jako pierwszy dokonałem tych odkryć – może inni po prostu nie byli tak ostrożni w kwestii własnego przetrwania.\n\nJutro spróbuję zdobyć okaz od Florana, który jak dotąd był wyjątkowo przyjacielski! Życz mi szczęścia!",
+    "path": "/contentPages/2",
+    "op": "replace"
+  },
+  {
+    "value": "Po prostu nie potrafią wczuć się w rasy cielesne w taki sam sposób, w jaki ty lub ja nie możemy wczuć się w źdźbło trawy.\n\nDla Floran polowanie nikomu nie szkodzi – przynajmniej nie na takim poziomie, jaki mogą pojąć.\n\nPomiędzy plemieniem istnieje silne pokrewieństwo – Floranie są istotami aseksualnymi i całą osadę uważają za jedną rodzinę.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Książka wyjaśniająca rolę Ogrodnika w plemieniu Floran.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Obrodnicy są cenieni wśród swoich ludzi przede wszystkim za te umiejętności i nie tylko.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Rola Ogrodnika",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Typowy Floran nie ma cierpliwości do tworzenia technologii bardziej zaawansowanej niż podstawowa broń i zbroja, więc Ogrodnicy muszą im pomóc.\n\nW całym plemieniu rodzi się tylko jeden Ogrodnik, obdarzony zdolnością mentalnego manipulowania roślinami. Łącząc się z roślinami, Ogrodnicy mogą bezpośrednio łączyć się z maszynami i komputerami, umożliwiając im technologię inżynierii wstecznej, dzięki czemu przeciętny Floran może z niej wygodnie korzystać.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]

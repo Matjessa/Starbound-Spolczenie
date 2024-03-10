@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Odchodzący Floran",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "List od Florana, który odrzucił ich kulturę.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Wiem, że wszyscy nienawidzicie mnie za to, że odchodzę, ale możliwe jest wytyczenie własnej ścieżki\n\nJeżeli jesteś w stanie to przeczytać, rozważ to!",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Do ludzi z mojego plemienia,\n\nCzy nie widzisz okropności, jakie nasz gatunek wyrządza ludziom we wszechświecie? Gdy uzyskaliśmy dostęp do podróży kosmicznych, rozprzestrzeniliśmy się po gwiazdach niczym chwasty.\n\nSerce mi pęka, gdy widzę, jak kolonie Floran pozostawiają po sobie jedynie chaos i zniszczenie. Ale każdy z nas ma wybór, nie musimy żyć, żeby polować, możemy nawet nauczyć się mówić bez syczenia!",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]
