@@ -1,0 +1,17 @@
+[
+  {
+    "value": "O Ziemskim Protektoracie",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Oficjalna dokumentacja Ziemskiego Protektoratu.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ziemski Protektorat stoi dumnie od ponad 500 lat, walcząc o pokój i jedność pomiędzy wieloma narodami wszechświata. Istniejemy, aby oferować pomoc bezbronnym i schronienie tym, którzy żyją w strachu. Staramy się edukować, chronić i wspierać wszystkich, którzy zwracają się do nas o pomoc.\n\nJesteśmy Ziemskim Protektoratem dopuki możemy stać.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]

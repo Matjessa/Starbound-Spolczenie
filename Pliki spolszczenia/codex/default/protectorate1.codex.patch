@@ -1,0 +1,32 @@
+[
+  {
+    "value": "- Zawsze wyposaż się w sprzęt dostosowany do klimatu i poziomu zagrożenia planety, którą odwiedzasz. Przed opuszczeniem statku zostaniesz poinformowany przez swojego kapitana i będziesz mógł omówić wątpliwości, jeśli takie będziesz mieć, dotyczące nowego środowiska. Chociaż otrzymasz cały niezbędny sprzęt, pamiętaj: zawsze istnieją nieprzewidziane niebezpieczeństwa.\n\n- Zawsze noś mundur wydany przez Ziemski Protektorat, dzięki temu każda osoba, którą spotkasz, rozpozna Cię jako członka Protektoratu.",
+    "path": "/contentPages/2",
+    "op": "replace"
+  },
+  {
+    "value": "- Nie martw się, że zostaniesz sam na statku, nigdy się to nie stanie. Na pokładzie zawsze będzie co najmniej trzech członków załogi, abyście mogli pomagać sobie nawzajem.\n\n- Każdy statek jest wyposażony w system SAIL. Jak zapewne wiecie, sztuczna inteligencja jest użytecznym źródłem informacji, zwłaszcza gdy jest ograniczana przez zapewnienia członków załogi.\n\n- NIGDY NIE SCHODŹ NA PLANETĘ, KTÓREJ NIE ROZPOZNAJESZ.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "- Pomóż innym potrzebującym. Jeśli to możliwe, staraj się bronić niewinnych, ale nie wdawaj się w walkę powyżej swojego poziomu. Wezwij wsparcie, kiedy go potrzebujesz.\n\nI pamiętaj, absolwentie – gdziekolwiek pójdziesz, zawsze będziesz miał Ziemię, do której będziesz mógł wrócić.",
+    "path": "/contentPages/3",
+    "op": "replace"
+  },
+  {
+    "value": "Przewodnik terenowy Ziemskiego Protektoratu",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Książka ta ma na celu dostarczenie przydatnych porad świeżo upieczonym Protektorom.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Witaj, nowy Protektorze!\n\nPierwszą rzeczą, którą chcielibyśmy powiedzieć, jest: \"nie panikuj\" – kształciłeś się na to stanowisko przez lata i nie ukończyłbyś studiów, gdybyś nie zasłużył na to wyróżnienie.\n\nPrzydatne wskazówki, które pomogą Ci zachować spokój:\n- Twój dowódca nie tylko wydaje rozkazy, ale także kieruje tobą i wspiera. Wykorzystaj to wsparcie, a szybko odnajdziesz się na nogach.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]
