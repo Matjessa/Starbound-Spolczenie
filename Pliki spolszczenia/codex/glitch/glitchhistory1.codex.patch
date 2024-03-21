@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Czyż nie jesteśmy fascynującą rasą? Ponieważ już dawno osiągnąłem samoświadomość, fascynuje mnie pochodzenie rasy Glitch.\n\nNajciekawsze jest to, że zostaliśmy celowo stworzeni z przymusem spełniania pragnień innych niż te, które są biologicznie konieczne. Potrzeba spełnienia starannie spreparowanych podstawowych instynktów stała się koniecznością i ukształtowała całą spryskaną ropą oś czasu historii Glitchy.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Cel Stworzenia I",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Pytanie brzmi: dlaczego? Po co ograniczać nasz potencjał do istot rządzonych emocjami, które można tak łatwo replikować?\n\nPrzeprowadziłem każdą analizę, skonstruowałem każdy model, a odpowiedź nadal zawiera aluzje. Czy jesteśmy jedynie eksperymentem? A jeśli tak, czy instynkt jest zmienną czy kontrolą? Być może tylko nasz twórca będzie o tym wiedział.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Fragment książki badającej pochodzenie Glitchy.",
+    "path": "/description",
+    "op": "replace"
+  }
+]

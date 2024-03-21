@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Burmistrz Glitchy ostrzega swoich mieszkańców.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Plaga szaleństwa",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;SŁUCHAJCIE, MIESZKAŃCY WSI!^white;\n\nTo jest dekret waszego ukochanego burmistrza. Wśród społeczeństwa szerzy się szaleństwo – niektórzy z naszych braci i sióstr mówią o \"prawdzie\" – że zostali przebudzeni i że reszta z nas żyje w jakiejś \"symulacji\".\n\nJest to niewątpliwie plaga i dla własnego dobra należy unikać osób dotkniętych szaleństwem.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]

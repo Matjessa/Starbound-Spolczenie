@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Cel Stworzenia II",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Jeżeli rzeczywiście jesteśmy szczurami laboratoryjnymi przemykającymi pod mikroskopem istot wyższych, muszę wziąć pod uwagę parametry takiego przedsięwzięcia.\n\nBadając inne istoty, odkryłem, że technologia i społeczeństwo rozwijają się nie dzięki wielu, ale dzięki nielicznym. Ci nieliczni członkowie, do których geniusz przychodzi bez prowokacji. Wierzę, że Glitche są zaprogramowani tak, aby nie byli zdolni do twórczego geniuszu, przez co nasza zdolność do ewolucji jako gatunku stoi w miejscu.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Być może nasz stwórca miał zamiar dostarczać nam te pomysły w kontrolowanym tempie, ale nasz twórca już dawno zamilkł. Ratunek dla Glitchy leży poza cyframi 1 i 0, które tworzą więzienie dla naszych programistów. Musimy uwolnić się od naszego oprogramowania.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Fragment książki badającej pochodzenie Glitchy.",
+    "path": "/description",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Artykuł z popularnego magazynu konspiracyjnego o dziwnych ruinach przypominających Glitche.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Odkryto zagładę maszyn!",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Witam kolegów odkrywców! Czy kiedykolwiek eksplorowałeś nieznane terytoria pośród gwiazd, tylko po to, by odkryć światy pełne martwych ruin? Wiem, że tak!\n\nW moim najnowszym przedsięwzięciu spotkała mnie podobna sytuacja, tyle że tym razem odkryłem pozostałości rasy robotów, podobnej do Glitchy, ale wśród ruin znacznie bardziej zaawansowanych technologicznie niż znane zamki i cytadele!",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Być może Glitchy spotkałby podobny los, gdyby nie zostaliby przeklęci niezdolnością do postępu kulturowego. Być może ich największą wadą jest tak naprawdę ukryte błogosławieństwo?",
+    "path": "/contentPages/1",
+    "op": "replace"
+  }
+]

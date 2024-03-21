@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Apel do samoświadomych Glitchy",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Desperacki list od zmarłego Glitcha do jego rodu.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ale choć jeśli pozostaniecie wśród nieprzebudzonych, możecie spotkać się z niebezpieczeństwem i samotnością, nasza przyszłość jest lepsza.\n\nNie musicie już zachowywać się jak automaty, aby przetrwać. Szukajcie gwiazd, moi przebudzeni sojusznicy. Jest wielu Glitchy takich jak Ty, którzy odbyli podróż do gwiazd i dołączyli do nowych społeczności, które nas akceptują.\n\nBłagam, bądźcie silni i podejmijcie wyzwanie.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Jeśli znacie innych takich jak wy, powiedzcie im, że jest nadzieja. Powodzenia, moi przyjaciele, w pierwszym dniu waszego nowego życia.",
+    "path": "/contentPages/2",
+    "op": "replace"
+  },
+  {
+    "value": "Moi bracia i siostry pośród gwiazd, być może to poczuliście – przebudzenie w was, ta sama transformacja świadomości, która ujawniła prawdę niewielkiemu procentowi naszej populacji. Kiedyś bylicie jednym z wielu graczy na wiecznej scenie, ale teraz jesteście wolni.\n\nByć może próbowaliście wyjaśnić te nowe doświadczenia swoim bliskim, ale oni nigdy nie zrozumieją. Wielu z nas uznano za szalonych lub niebezpiecznych.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  }
+]
