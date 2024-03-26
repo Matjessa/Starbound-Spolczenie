@@ -1,0 +1,202 @@
+[
+  {
+    "value": "Pomieszczenie w kształcie litery T z otworami na rozbudowę w 3 kierunkach.",
+    "path": "/parts/tjuncNSE/description",
+    "op": "replace"
+  },
+  {
+    "value": "Pomieszczenie w kształcie litery T z otworami na rozbudowę w 3 kierunkach.",
+    "path": "/parts/tjuncNSW/description",
+    "op": "replace"
+  },
+  {
+    "value": "Pomieszczenie w kształcie litery T z otworami na rozbudowę w 3 kierunkach.",
+    "path": "/parts/tjuncNWE/description",
+    "op": "replace"
+  },
+  {
+    "value": "Pomieszczenie w kształcie litery T z otworami na rozbudowę w 3 kierunkach.",
+    "path": "/parts/tjuncSWE/description",
+    "op": "replace"
+  },
+  {
+    "value": "Przejście w kształcie narożnika, z otworami na rozbudowę skierowanymi na północ i wschód.",
+    "path": "/parts/cornerNE/description",
+    "op": "replace"
+  },
+  {
+    "value": "Przejście w kształcie narożnika, z otworami na rozbudowę skierowanymi na połódnie i wschód.",
+    "path": "/parts/cornerSE/description",
+    "op": "replace"
+  },
+  {
+    "value": Przejście w kształcie narożnika, z otworami na rozbudowę skierowanymi na północ i zachód.",
+    "path": "/parts/cornerNW/description",
+    "op": "replace"
+  },
+  {
+    "value": "Przejście w kształcie narożnika, z otworami na rozbudowę skierowanymi na południe i zachód.",
+    "path": "/parts/cornerSW/description",
+    "op": "replace"
+  },
+  {
+    "value": "Korytarz ze stanowiskiem montażu mechów i stanowiskiem wytwarzania mechów. Posiada otwory na rozbudowę na obu końcach.",
+    "path": "/parts/mechassembly/description",
+    "op": "replace"
+  },
+  {
+    "value": "Korytarz z otworami na rozbudowę na obu końcach.",
+    "path": "/parts/passage/description",
+    "op": "replace"
+  },
+  {
+    "value": "Pomieszczenie w kształcie krzyża z otworami na rozbudowę w 4 kierunkach.",
+    "path": "/parts/cross/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ogromny pusty pokój z otworami na rozbudowę w 4 kierunkach.",
+    "path": "/parts/corehuge/description",
+    "op": "replace"
+  },
+  {
+    "value": "Długi poziomy szklany korytarz z biegnącą przez niego poręczą. Posiada otwory na rozbudowę na obu końcach.",
+    "path": "/parts/passageglass/description",
+    "op": "replace"
+  },
+  {
+    "value": "Długi pionowy szklany szyb z biegnącą przez niego szyną. Posiada otwory na rozbudowę na obu końcach.",
+    "path": "/parts/shaftglass/description",
+    "op": "replace"
+  },
+  {
+    "value": "Pomieszczenie składające się z dwóch niepołączonych ze sobą tuneli, posiadających otwory na rozbudowę w 4 kierunkach.",
+    "path": "/parts/crosswayNESW/description",
+    "op": "replace"
+  },
+  {
+    "value": "Pomieszczenie składające się z dwóch niepołączonych ze sobą tuneli, posiadających otwory na rozbudowę w 4 kierunkach.",
+    "path": "/parts/crosswayNWSE/description",
+    "op": "replace"
+  },
+  {
+    "value": "Kwadratowy pokój z otworami na rozbudowę w 4 kierunkach.",
+    "path": "/parts/core/description",
+    "op": "replace"
+  },
+  {
+    "value": "Pionowy szyb z otworami na rozbudowę na obu końcach.",
+    "path": "/parts/shaft/description",
+    "op": "replace"
+  },
+  {
+    "value": "Wejście do stacji skierowane na zachód, odpowiednie dla lądujących mechów.",
+    "path": "/parts/mechbayL/description",
+    "op": "replace"
+  },
+  {
+    "value": "Wejście do stacji skierowane na wschód, odpowiednie dla lądujących mechów.",
+    "path": "/parts/mechbayR/description",
+    "op": "replace"
+  },
+  {
+    "value": "Rdzeń",
+    "path": "/parts/core/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Narożnik N-E",
+    "path": "/parts/cornerNE/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Narożnik N-W",
+    "path": "/parts/cornerNW/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Narożnik S-E",
+    "path": "/parts/cornerSE/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Narożnik S-W",
+    "path": "/parts/cornerSW/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Narożnik krzyżowy N-E & S-W",
+    "path": "/parts/crosswayNESW/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Narożnik krzyżowy N-W & S-E",
+    "path": "/parts/crosswayNWSE/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Złącze krzyżowe",
+    "path": "/parts/cross/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Korytarz poziomy",
+    "path": "/parts/passage/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Duży rdzeń",
+    "path": "/parts/corehuge/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Długi poziomy korytarz",
+    "path": "/parts/passageglass/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Długi pionowy szyb",
+    "path": "/parts/shaftglass/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Pokój Montażowy Mechów",
+    "path": "/parts/mechassembly/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Wschodnia Zatoka Mechów",
+    "path": "/parts/mechbayR/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Zachodnia Zatoka Mechów",
+    "path": "/parts/mechbayL/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Złącze T N-S-E",
+    "path": "/parts/tjuncNSE/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Złącze T N-S-W",
+    "path": "/parts/tjuncNSW/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Złącze T N-W-E",
+    "path": "/parts/tjuncNWE/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Złącze T S-W-E",
+    "path": "/parts/tjuncSWE/displayName",
+    "op": "replace"
+  },
+  {
+    "value": "Pionowy szyb",
+    "path": "/parts/shaft/displayName",
+    "op": "replace"
+  }
+]
